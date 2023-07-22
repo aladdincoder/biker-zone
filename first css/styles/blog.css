@@ -1,0 +1,12 @@
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+.second{
+    /*display: none;*/
+    /* visibility: hidden;*/
+
+}
+.dolor{
+    border: 1.5px solid red;
+}
